@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nixereebol.oldhammade.net/sitemap.xml
